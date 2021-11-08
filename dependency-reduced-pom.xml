@@ -8,10 +8,10 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <groupId>ong.hackamarte</groupId>
-  <artifactId>impact</artifactId>
-  <name>Impact</name>
+  <artifactId>solidarize</artifactId>
+  <name>Solidarize</name>
   <version>0.0.2-SNAPSHOT</version>
-  <description>Hacha Marte Solthon Hackathon Project - Impact</description>
+  <description>Hacha Marte Solthon Hackathon Project - Solidarize</description>
   <build>
     <plugins>
       <plugin>

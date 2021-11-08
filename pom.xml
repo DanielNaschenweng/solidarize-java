@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ong.hackamarte</groupId>
-	<artifactId>impact</artifactId>
+	<artifactId>solidarize</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
-	<name>Impact</name>
-	<description>Hacha Marte Solthon Hackathon Project - Impact</description>
+	<name>Solidarize</name>
+	<description>Hacha Marte Solthon Hackathon Project - Solidarize</description>
 	<properties>
 		<java.version>11</java.version>
 		<maven.compiler.source>11</maven.compiler.source>
